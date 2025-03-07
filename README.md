@@ -18,7 +18,7 @@ Ensure you have Python installed on your system. No additional libraries are req
 ## Usage
 1. **Run the script**
    ```sh
-   python countdown.py
+   python count_down_timer.py
    ```
 2. **Enter the countdown time** in one of the following formats:
    - `hh:mm:ss` (e.g., `00:02:30` for 2 minutes 30 seconds)
