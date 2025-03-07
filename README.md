@@ -50,9 +50,5 @@ Press 'P' to Pause, 'R' to Restart, 'S' to Stop
 - The script runs continuously until the countdown completes or the user stops it.
 - If an invalid time format is entered, the script prompts the user to re-enter a valid format.
 
-## License
-This project is free to use and modify.
 
----
-Feel free to enhance it by adding additional features like sound alerts or cross-platform compatibility!
 
